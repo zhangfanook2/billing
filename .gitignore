@@ -14,7 +14,7 @@ target/
 *.ipr
 
 ### Resources ###
-**/src/main/resources/application.properties
+src/main/resources/application.properties
 
 
 ### Eclipse ###
